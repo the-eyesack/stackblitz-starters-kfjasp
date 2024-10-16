@@ -1,0 +1,36 @@
+* {
+  font-family: 'Rubik';
+  color: white;
+}
+
+body {
+  background-image: url('https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2024/09/15171736/Oscar-Piastri-McLaren-Azerbaijan-Grand-Prix-PlanetF1.jpg');
+  background-color: #cccccc;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.bgimg {
+  width: 100vw;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 1em;
+  font-size: 3rem;
+}
+
+h2 {
+  text-align: center;
+}
+
+.card {
+  border-radius: 10px;
+  background-color: #888888;
+  width: fit-content;
+  padding: 0.5em;
+  padding-right: 1em;
+  margin-left: auto;
+  margin-right: auto;
+}
